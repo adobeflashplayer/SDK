@@ -1,0 +1,1 @@
+flashtabletsize(1024x600
