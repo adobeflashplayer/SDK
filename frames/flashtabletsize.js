@@ -1,1 +1,1 @@
-flashtabletsize(1024x600
+setettabletsize(1024x600)
